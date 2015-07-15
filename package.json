@@ -1,0 +1,27 @@
+{
+  "name": "react-hello",
+  "version": "0.0.1",
+  "description": "Starting with ReactJs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bikashsharmabks/react-hello"
+  },
+  "keywords": [
+    "reactjs",
+    "helloworld"
+  ],
+  "author": "Bikash Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikashsharmabks/react-hello/issues"
+  },
+  "homepage": "https://github.com/bikashsharmabks/react-hello",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
